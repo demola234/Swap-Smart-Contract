@@ -48,12 +48,6 @@ Execute `npm test` (or `yarn test`) to run the unit tests for the smart contract
 
 ## Usage
 
-### Token Swapping
-
-[Add specific instructions on how to use your smart contract for swapping tokens here.]
-
-#### Example:
-
 ```javascript
     yarn hardhat test
 
